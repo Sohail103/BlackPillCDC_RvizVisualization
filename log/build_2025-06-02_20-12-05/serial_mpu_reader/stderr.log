@@ -1,0 +1,5 @@
+  File "/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/install/serial_mpu_reader/lib/python3.10/site-packages/serial_mpu_reader/serial_reader.py", line 1
+    <LeftMouse>import rclpy
+    ^
+SyntaxError: invalid syntax
+
