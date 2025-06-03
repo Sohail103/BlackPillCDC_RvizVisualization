@@ -1,0 +1,21 @@
+[0.390s] Invoking command in '/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/src/serial_mpu_reader': PYTHONPATH=/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/install/serial_mpu_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_mpu_reader build --build-base /mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/build install --record /mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/install.log --single-version-externally-managed install_data
+[0.540s] running egg_info
+[0.540s] writing ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/PKG-INFO
+[0.540s] writing dependency_links to ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/dependency_links.txt
+[0.540s] writing entry points to ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/entry_points.txt
+[0.540s] writing requirements to ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/requires.txt
+[0.540s] writing top-level names to ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/top_level.txt
+[0.541s] reading manifest file '../../build/serial_mpu_reader/serial_mpu_reader.egg-info/SOURCES.txt'
+[0.542s] writing manifest file '../../build/serial_mpu_reader/serial_mpu_reader.egg-info/SOURCES.txt'
+[0.542s] running build
+[0.542s] running build_py
+[0.542s] running install
+[0.543s] running install_lib
+[0.543s] running install_data
+[0.543s] running install_egg_info
+[0.544s] removing '/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/install/serial_mpu_reader/lib/python3.10/site-packages/serial_mpu_reader-0.0.0-py3.10.egg-info' (and everything under it)
+[0.545s] Copying ../../build/serial_mpu_reader/serial_mpu_reader.egg-info to /mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/install/serial_mpu_reader/lib/python3.10/site-packages/serial_mpu_reader-0.0.0-py3.10.egg-info
+[0.545s] running install_scripts
+[0.559s] Installing serial_reader script to /mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/install/serial_mpu_reader/lib/serial_mpu_reader
+[0.560s] writing list of installed files to '/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/install.log'
+[0.578s] Invoked command in '/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/src/serial_mpu_reader' returned '0': PYTHONPATH=/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/install/serial_mpu_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_mpu_reader build --build-base /mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/build install --record /mnt/hdd/STM32/STM32Projects/BlackPillCDC/BlackPillCDC_RvizVisualization/build/serial_mpu_reader/install.log --single-version-externally-managed install_data
