@@ -31,7 +31,7 @@ def generate_launch_description():
 
         ExecuteProcess(
             condition=IfCondition(use_rviz),
-            cmd=['rviz2', '-d', '/absolute/path/to/imu_viz.rviz'],
+            cmd=['rviz2', '-d', '/mnt/hdd/stm32/stm32_projects/BlackPillCDC/BlackPillCDC_RvizVisualization'],
             output='screen'
         )
     ])
