@@ -8,6 +8,7 @@ setup.py
 ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/requires.txt
 ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/top_level.txt
 ../../build/serial_mpu_reader/serial_mpu_reader.egg-info/zip-safe
+launch/imu_visualize.launch.py
 resource/serial_mpu_reader
 serial_mpu_reader/__init__.py
 serial_mpu_reader/serial_reader.py

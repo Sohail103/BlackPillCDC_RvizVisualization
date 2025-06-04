@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: serial-mpu-reader
 Version: 0.0.0
-Summary: TODO: Package description
+Summary: reads serial data on /dev/ttyACM0 and publishes it on ros topic /imu/data_raw
 Home-page: UNKNOWN
 Maintainer: sohail
 Maintainer-email: sohailraj.satapathy@gmail.com
