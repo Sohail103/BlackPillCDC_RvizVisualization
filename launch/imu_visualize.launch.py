@@ -15,8 +15,8 @@ def generate_launch_description():
         ),
 
         Node(
-            package='your_serial_package',
-            executable='serial_reader_node',
+            package='serial_mpu_reader',
+            executable='serial_reader',
             name='serial_reader',
             output='screen',
         ),
@@ -27,10 +27,6 @@ def generate_launch_description():
             name='imu_filter',
             output='screen',
             parameters=[{'use_mag': False}],
-            remappings=[
-                ('imu/data_raw', '/imu/raw'),
-                ('imu/data', '/imu/data')
-            ]
         ),
 
         ExecuteProcess(
